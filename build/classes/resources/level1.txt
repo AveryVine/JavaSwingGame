@@ -1,0 +1,8 @@
+WALL
+0 750 950 50 false
+FLAG
+700 700
+CHARACTER
+700 100
+TEXT_SMALL
+Welcome to Jimmy's Adventures! Use the left and right arrow keys to move, and the up arrow key to jump. Get to the flag!

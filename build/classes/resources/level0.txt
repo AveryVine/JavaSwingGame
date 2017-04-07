@@ -1,0 +1,4 @@
+TEXT_LARGE
+Welcome to Jimmy's Adventures!
+TEXT_MEDIUM
+Press any key to continue...
